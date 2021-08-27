@@ -1,0 +1,23 @@
+{
+  "name": "javascript-promise",
+  "version": "1.0.0",
+  "description": "My first experience with promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HellenWeb/javascript-promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HellenWeb/javascript-promise/issues"
+  },
+  "homepage": "https://github.com/HellenWeb/javascript-promise#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
